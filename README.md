@@ -7,6 +7,8 @@
     Front Html 
     Front Javascript done
     Fetch Data on controller Home page
+    Introduce js error 
+    Finish data visualisation board
 # FEATURE1
     Here start a long journey to develop feature1
     The feature now have backend db accès
